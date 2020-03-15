@@ -51,7 +51,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/101187227-beauty-cartoon-skin-care-woman-on-the-white-background.jpg"
       },
       "components": [
         {
@@ -511,7 +512,8 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Services",
-        "order": 1
+        "order": 1,
+        "meta_image": "@PROJECT_PATH@/assets/images/101187227-beauty-cartoon-skin-care-woman-on-the-white-background.jpg"
       },
       "components": [
         {
@@ -1077,7 +1079,8 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "About",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/89327182-193350641958571-2149536195690889216-n.png"
       },
       "components": [
         {
@@ -1622,7 +1625,8 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Contact",
-        "order": 3
+        "order": 3,
+        "meta_image": "@PROJECT_PATH@/assets/images/101187227-beauty-cartoon-skin-care-woman-on-the-white-background.jpg"
       },
       "components": [
         {
